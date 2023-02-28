@@ -71,5 +71,7 @@
             <url>https://jcenter.bintray.com</url>
         </repository>
     </repositories>
-
+<build>
+<finalName>java-jenkins-docker</finalName>
+</build>
 </project>
